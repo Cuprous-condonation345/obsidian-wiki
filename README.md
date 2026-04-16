@@ -3,7 +3,7 @@
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Ar9av/obsidian-wiki)
 
 
-<img width="1536" height="1024" alt="obisidian-wiki" src="https://github.com/user-attachments/assets/a2fc3158-8e73-4817-9803-cff043e6deaa" />
+<img width="768" height="512" alt="obsidian-wiki" src="https://github.com/user-attachments/assets/2e4fbf4f-548c-4af4-a050-52f38e050b6b" />
 
 A knowledge mgmt system inspired by [gist](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) published by Andrej Karpathy about maintaining a personal knowledge base with LLMs : the "LLM Wiki" pattern.
 
