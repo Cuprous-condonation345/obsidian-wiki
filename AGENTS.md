@@ -58,6 +58,7 @@ Skills live in `.skills/<name>/SKILL.md`. Match the user's intent to the right s
 | "fix my tags" / "normalize tags" / "tag audit" | `tag-taxonomy` |
 | "update wiki" / "sync to wiki" / "save this to my wiki" | `wiki-update` |
 | "export wiki" / "export graph" / "graphml" / "neo4j" | `wiki-export` |
+| "color my graph" / "color code obsidian" / "color by tag/category/visibility" | `graph-colorize` |
 | "create a new skill" | `skill-creator` |
 
 ## Cross-Project Usage
